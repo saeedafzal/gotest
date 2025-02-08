@@ -5,7 +5,6 @@ import std/options
 import std/sequtils
 import std/sugar
 import std/terminal
-import std/tables
 
 # <package/one>
 #     P  <test_one>
